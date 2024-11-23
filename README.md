@@ -4,5 +4,6 @@
 
   Replace <private_key> with your private key.
 
-  # for linux curl -o- https://console.icn.global/downloads/install/start.sh | bash -s -- -p <private_key>   
+  # for linux 
+  curl -o- https://console.icn.global/downloads/install/start.sh | bash -s -- -p <private_key>   
   Replace <private_key> with your private key.
